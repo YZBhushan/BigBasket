@@ -1,0 +1,42 @@
+2020-Jun-04 13:58:03,337 [main] resonancia.bigbasket.homepagetests.LoginPageTests 
+  INFO  Chrome launched
+2020-Jun-04 13:58:09,190 [main] resonancia.bigbasket.homepagetests.LoginPageTests 
+  INFO  Url https://www.bigbasket.com/ opened
+2020-Jun-04 13:58:16,997 [main] resonancia.bigbasket.customeutils.WebEventListner 
+  INFO  Configuration file loaded
+2020-Jun-04 13:58:16,999 [main] resonancia.bigbasket.pages.LoginPage 
+  INFO  Configuration file loaded
+2020-Jun-04 13:58:17,092 [main] resonancia.bigbasket.customeutils.WebEventListner 
+  INFO  Just before finding element: By.xpath: //div[@id='headerControllerId']//a[3] on browser: ChromeDriver: chrome on WINDOWS (5f3be8f254133270f6513a2966fd0d1a)
+2020-Jun-04 13:58:17,201 [main] resonancia.bigbasket.customeutils.WebEventListner 
+  INFO  Just after finding element: By.xpath: //div[@id='headerControllerId']//a[3] inside [[ChromeDriver: chrome on WINDOWS (5f3be8f254133270f6513a2966fd0d1a)] -> xpath: //div[@id='headerControllerId']//a[3]] Web element on browser: ChromeDriver: chrome on WINDOWS (5f3be8f254133270f6513a2966fd0d1a)
+2020-Jun-04 13:58:17,293 [main] resonancia.bigbasket.customeutils.WebEventListner 
+  INFO  Trying to click on Login a
+2020-Jun-04 13:58:18,515 [main] resonancia.bigbasket.customeutils.WebEventListner 
+  INFO  Clicked on Login a
+2020-Jun-04 13:58:20,545 [main] resonancia.bigbasket.customeutils.WebEventListner 
+  INFO  Just before finding element: By.xpath: //div[@class='modal-content']//div[@class='ng-scope']//button[@type='button'] on browser: ChromeDriver: chrome on WINDOWS (5f3be8f254133270f6513a2966fd0d1a)
+2020-Jun-04 13:58:20,569 [main] resonancia.bigbasket.customeutils.WebEventListner 
+  INFO  Just after finding element: By.xpath: //div[@class='modal-content']//div[@class='ng-scope']//button[@type='button'] inside [[ChromeDriver: chrome on WINDOWS (5f3be8f254133270f6513a2966fd0d1a)] -> xpath: //div[@class='modal-content']//div[@class='ng-scope']//button[@type='button']] Web element on browser: ChromeDriver: chrome on WINDOWS (5f3be8f254133270f6513a2966fd0d1a)
+2020-Jun-04 13:58:20,597 [main] resonancia.bigbasket.customeutils.WebEventListner 
+  INFO  Trying to click on  button
+2020-Jun-04 13:58:20,760 [main] resonancia.bigbasket.customeutils.WebEventListner 
+  INFO  Clicked on  button
+2020-Jun-04 13:58:20,770 [main] resonancia.bigbasket.pages.LoginPage 
+  INFO  Switching to main window
+2020-Jun-04 13:58:20,793 [main] resonancia.bigbasket.customeutils.WebEventListner 
+  INFO  Trying to click on Login a
+2020-Jun-04 13:58:21,841 [main] resonancia.bigbasket.customeutils.WebEventListner 
+  INFO  Clicked on Login a
+2020-Jun-04 13:58:23,860 [main] resonancia.bigbasket.customeutils.WebEventListner 
+  INFO  Just before finding element: By.cssSelector: a[class='gplusBtn smGlobalBtn'] on browser: ChromeDriver: chrome on WINDOWS (5f3be8f254133270f6513a2966fd0d1a)
+2020-Jun-04 13:58:23,880 [main] resonancia.bigbasket.customeutils.WebEventListner 
+  INFO  Just after finding element: By.cssSelector: a[class='gplusBtn smGlobalBtn'] inside [[ChromeDriver: chrome on WINDOWS (5f3be8f254133270f6513a2966fd0d1a)] -> css selector: a[class='gplusBtn smGlobalBtn']] Web element on browser: ChromeDriver: chrome on WINDOWS (5f3be8f254133270f6513a2966fd0d1a)
+2020-Jun-04 13:58:23,906 [main] resonancia.bigbasket.customeutils.WebEventListner 
+  INFO  Trying to click on  a
+2020-Jun-04 13:58:24,406 [main] resonancia.bigbasket.customeutils.WebEventListner 
+  INFO  Clicked on  a
+2020-Jun-04 13:58:24,422 [main] resonancia.bigbasket.pages.HomePage 
+  INFO  Configuration file loaded
+2020-Jun-04 13:58:24,423 [main] resonancia.bigbasket.customeutils.WebEventListner 
+  INFO  Just before finding element: By.xpath: //div[@class='dropdown user-dropdown hvr-drop']//span[@class='ng-binding'] on browser: ChromeDriver: chrome on WINDOWS (5f3be8f254133270f6513a2966fd0d1a)
